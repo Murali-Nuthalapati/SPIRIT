@@ -1,0 +1,9 @@
+input{
+    padding: 16px;
+    border-radius: 16px;
+}
+body{
+    img
+    background-repeat: no-repeat;
+}
+ 
